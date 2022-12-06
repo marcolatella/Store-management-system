@@ -7,7 +7,6 @@ Marco Latella mat. 829498
 
 Michele Leporati mat. 834976
 
-**Indirizzo repository git:** https://gitlab.com/mlepo/2020_assignment3_softwaredevelopment
 
 ## Istruzioni esecuzione WebApp
 
