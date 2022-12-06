@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://wwwthvmeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Prova</title>
+</head>
+<body>
+<h1>Pagina di Prova</h1>
+
+
+<form action="#" method="post" th:action="@{/add}" th:object="${product}">
+    <b>ID</b> <input type="text" th:field="*{id}" placeholder="id"/>
+    <b>Name</b> <input type="text" th:field="*{name}" placeholder="name"/>
+    <b>Quantity</b> <input type="text" th:field="*{quantity}" placeholder="quantity"/>
+    <b>Price</b> <input type="text" th:field="*{price}" placeholder="price">
+    <b>5G</b> <input type="text" th:field="*{has5G}">
+    <b>TypeC</b> <input type="text" th:fiel="*{hasTypeC}">
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
