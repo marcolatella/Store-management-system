@@ -18,7 +18,7 @@ Michele Leporati mat. 834976
 
 2. Spostarsi nella cartella appena clonata
 
-    `cd 2020_assignment3_softwaredevelopment`
+    `cd Store-management-system`
 
 
 3. Eseguire la WebApp lanciando il seguente comando:
